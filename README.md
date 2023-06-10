@@ -1,1 +1,1 @@
-this current project is a website that will, after we have gone through the proper steps, will create a page that is comprised of 3 recipes that we have chosen. It will also teach us the proper formate and coding techniques when fist learning HTML.
+This current project is a website that will, after we have gone through the proper steps, create a page that is comprised of 3 recipes that we have chosen. It will also teach us the proper formate and coding techniques when first learning HTML.
